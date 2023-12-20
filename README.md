@@ -9,7 +9,7 @@ This extension changes the permissions of users with the 'Editor' role in an org
 This applies to the existing 'Editor' role rather than creating a new one as it is currently not possible to add new roles from an extension;
 The plugin works with custom dataset types, however it will not work with other plugins which override package/resource update/create/delete authorization functions, and package_create/update actions.
 
-***Warning: This plugin modifies CKAN's permission system. The current implementation cannot be considered fully safe and should only be used AT YOUR OWN RISK in a trusted environment. Ensure you run the tests with your plugins enabled.***
+***Warning: This plugin modifies CKAN's permission system. The current implementation should only be used AT YOUR OWN RISK in a trusted environment. Ensure you run the tests with your plugins enabled.***
 
 
 ## Installation
