@@ -2,7 +2,7 @@
 
 
 ## Overview
-This extension changes the permissions of users with the 'Editor' role in an organisation, allowing them to create datasets, and to edit or delete the datasets they have created and also edit datasets in organisation that they dont own but not delete.. Unlike users with the 'Editor' role, they cannot edit or delete datasets created by other users.
+This extension changes the permissions of users with the 'Editor' role in an organisation, allowing them to create datasets, and to edit or delete the datasets they have created and also edit datasets in organisation that they dont own but not delete.. Unlike users with the 'Admin' role, they cannot edit or delete datasets created by other users.
 
 ## Notes:
 
