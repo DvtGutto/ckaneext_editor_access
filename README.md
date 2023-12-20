@@ -16,15 +16,15 @@ The plugin works with custom dataset types, however it will not work with other 
 
 1 - Clone this repository into  `/usr/lib/ckan/default/src`
 
- - cd /usr/lib/ckan/default/src
- - git clone https://github.com/DvtGutto/ckanext-editor_access.git
+ - `cd /usr/lib/ckan/default/src`
+ - `git clone https://github.com/DvtGutto/ckanext-editor_access.git`
 
 
 2 - Execute command into  `/usr/lib/ckan/default/src/ckanext-editor_access`
 
- - cd /usr/lib/ckan/default/src/ckanext-editor_access
- - python setup.py develop
+ - `cd /usr/lib/ckan/default/src/ckanext-editor_access`
+ - `python setup.py develop`
 
 3 - Add plugin into `ckan.ini`  file
 
-  - ckan.plugins = ... editor_access
+  - `ckan.plugins = ... editor_access`
